@@ -2,6 +2,6 @@
   "post": [ 
     { 
       "allow": [true, false]
-    }, 
+    }
   ] 
 }
